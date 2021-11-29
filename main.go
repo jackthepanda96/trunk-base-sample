@@ -8,4 +8,6 @@ func main() {
 	fmt.Println("Update 2")
 	fmt.Println("Update 3")
 	fmt.Println("Update 4")
+	fmt.Println("Update 5")
+	fmt.Println("Fitur-1 Commit-1")
 }
