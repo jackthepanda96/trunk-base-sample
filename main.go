@@ -6,11 +6,8 @@ func main() {
 	fmt.Println("Hello world")
 	fmt.Println("Update 1")
 	fmt.Println("Update 2")
-<<<<<<< HEAD
 	fmt.Println("Update 3")
 	fmt.Println("Update 4")
 	fmt.Println("Update 5")
-=======
 	fmt.Println("Fitur-1 Commit-1")
->>>>>>> 003ebda (Intialize Fitur-1)
 }
