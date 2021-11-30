@@ -13,4 +13,5 @@ func main() {
 	fmt.Println("Update 5")
 	fmt.Println("Fitur-1 Commit-1")
 	fmt.Println(a + b)
+	fmt.Println("Fitur-2 Commit-1")
 }
