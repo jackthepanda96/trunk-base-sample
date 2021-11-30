@@ -5,6 +5,8 @@ import "fmt"
 func main() {
 	a := 5
 	b := 5
+	c := 5
+	d := 5
 	fmt.Println("Hello world")
 	fmt.Println("Update 1")
 	fmt.Println("Update 2")
@@ -14,4 +16,5 @@ func main() {
 	fmt.Println("Fitur-1 Commit-1")
 	fmt.Println(a + b)
 	fmt.Println("Fitur-2 Commit-1")
+	fmt.Println(c / d)
 }
